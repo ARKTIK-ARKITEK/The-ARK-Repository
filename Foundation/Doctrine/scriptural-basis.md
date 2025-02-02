@@ -28,9 +28,9 @@ Faith is not blind belief but **the foundation of action and innovation.** ARKTI
 **Reference:** Genesis 17:7 – *“And I will establish My covenant between Me and you and your descendants after you in their generations, for an everlasting covenant, to be God to you and your descendants after you.”*  
 Stewardship over **resources, relationships, and leadership** must reflect the covenantal relationship with THE ONE, ensuring responsibility and faithfulness in all endeavors.
 
-## **8. Prophetic Insight & Discernment**
-**Reference:** Amos 3:7 – *“Surely THE ONE does nothing, unless He reveals His secret to His servants the prophets.”*  
-ARKTIK upholds **prophetic discernment** as a guiding principle, ensuring that leadership and governance remain aligned with divine wisdom and revelation.
+## **8. Studying to Show Ourselves Approved**
+**Reference:** 2 Timothy 2:15 – *“Study to show thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”*  
+ARKTIK emphasizes the importance of **intellectual and spiritual refinement through study, research, and disciplined practice.** Like scientists, attorneys, and physicians, we are called to **engage in THE WORD actively, testing and applying divine principles** rather than passively spectating the world's system. We are set apart not by ignorance but by **our dedication to truth, wisdom, and discernment.**
 
 ## **9. The Eternal Conflict Between Light & Chaos**
 **Reference:** John 1:5 – *“And the light shines in the darkness, and the darkness did not comprehend it.”*  
@@ -48,3 +48,5 @@ ARKTIK remains committed to **ongoing revelation and refinement**, ensuring that
 
 **Conclusion:**  
 The ARKTIK Scriptural Basis ensures that all initiatives, governance structures, and innovations are **rooted in divine law and wisdom**. By aligning with THE ONE’s truth, we establish a **foundation of righteousness, justice, and enlightenment** for generations to come.
+
+
