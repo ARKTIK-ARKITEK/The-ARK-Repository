@@ -1,17 +1,22 @@
-# The ARK Repository
+# **The ARK Repository**
 
 Welcome to the ARK Repository, the foundational archive of ARKTIK's spiritual mission, doctrinal teachings, and governance principles. This repository serves as the bedrock upon which ARKTIK's operations and initiatives are built, ensuring unwavering alignment with our core beliefs and divine directives.
 
-## Purpose
-
+## **Purpose**
 The ARK Repository is dedicated to:
 
 - **Preserving and disseminating** ARKTIK's core mission and spiritual doctrines.
 - **Providing clear governance structures** rooted in ethical and faith-based principles.
 - **Offering guidance and resources** for community engagement and leadership development.
+- **Serving as the unseen foundation of ARKTIK**, much like an iceberg—most of its mass is beneath the surface, unseen by the world, yet supporting and shaping everything above it.
 
-## Repository Structure
+## **Faith & The ARKTIK Berg**
+**Reference:** Hebrews 11:1 – *“Now faith is the substance of things hoped for, the evidence of things not seen.”*  
+Faith is the unseen structure that upholds everything visible. Much like an iceberg, most of ARKTIK's work is **deeply embedded and unseen**, yet when engaged with, its full magnitude and significance become apparent. 
 
+We follow the wisdom given to us: *“Be wise as serpents, and harmless as doves”* (Matthew 10:16). However, as with David, we keep both the **Rod and the Staff**  (Psalm 23:4), ensuring that while we walk in peace, we are always prepared to uphold justice and protect the sanctity of our mission.
+
+## **Repository Structure**
 The repository is organized into the following key directories:
 
 - **`/foundation`**: Contains the core mission statements, doctrinal teachings, and theological frameworks.
@@ -36,24 +41,19 @@ The repository is organized into the following key directories:
 
 - **`/prophecy-strategy`**: Documents aligning ARKTIK’s long-term mission with divine order and prophetic insights.
 
-## Contribution Guidelines
-
+## **Contribution Guidelines**
 We welcome contributions that align with ARKTIK's mission and values. To maintain the integrity and coherence of our repository:
 
 - **Adherence to Core Beliefs**: Ensure all contributions are consistent with the foundational beliefs outlined in `core-beliefs.md`.
-
 - **Ethical Standards**: Uphold the ethical guidelines detailed in `moral-ethics.md` and `organizational-ethics.md`.
-
 - **Structured Submissions**: Follow the repository's structure when adding new documents or directories. Clearly state the purpose and relevance of each contribution.
-
 - **Review Process**: All submissions will undergo a review by the Governing Council to ensure alignment with ARKTIK’s mission and values.
 
-## Contact
-
-For inquiries, guidance, or further information, please reach out to the ARKTIK leadership team at [contact@arktik.org](mailto:contact@arktik.org).
 
 ---
 
 *“Now faith is the substance of things hoped for, the evidence of things not seen.”* – Hebrews 11:1
 
-May this repository serve as a beacon of faith, wisdom, and ethical governance for all who seek to engage with ARKTIK's mission.
+May this repository serve as a beacon of **faith, wisdom, and ethical governance** for all who seek to engage with ARKTIK's mission.
+
+
