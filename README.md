@@ -14,8 +14,6 @@ The ARK Repository is dedicated to:
 **Reference:** Hebrews 11:1 – *“Now faith is the substance of things hoped for, the evidence of things not seen.”*  
 Faith is the unseen structure that upholds everything visible. Much like an iceberg, most of ARKTIK's work is **deeply embedded and unseen**, yet when engaged with, its full magnitude and significance become apparent. 
 
-We follow the wisdom given to us: *“Be wise as serpents, and harmless as doves”* (Matthew 10:16). However, as with David, we keep both the **Rod and the Staff**  (Psalm 23:4), ensuring that while we walk in peace, we are always prepared to uphold justice and protect the sanctity of our mission.
-
 ## **Repository Structure**
 The repository is organized into the following key directories:
 
